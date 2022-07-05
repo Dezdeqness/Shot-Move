@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShotNMove.iml" filepath="$PROJECT_DIR$/ShotNMove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShotNMove.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
